@@ -1,0 +1,32 @@
+.container-nav{
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.logu {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.link-itens{
+    margin-right: 40px;
+}
+.link-itens ul{
+display: flex;
+}
+.link-itens ul li{
+list-style-type: none;
+margin-top:12px ;
+}
+.link-itens ul li a{
+text-decoration: none;
+color: #fff;
+padding: 12px;
+
+
+
+
+
+}
